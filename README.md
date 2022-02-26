@@ -4,7 +4,7 @@
  
 - 🔭 Atualmente estudo na Etec de Guarulhos no Parque Cecap
 - 🌱 Estudando JavaScript , PHP , C# , Bootstrap
-- 📚 Estudando Desenvolvimento de Sistema na Udemy
+- 📚 Estudando Desenvolvimento de Sistema na plataforma da Udemy
 
 ##
  
