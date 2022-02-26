@@ -1,13 +1,13 @@
 ### Olá! Eu sou IagoCustódio👋
 
 ##
-
+ 
 - 🔭 Atualmente estudo na Etec de Guarulhos no Parque Cecap
-- 🌱 Estudando JavaScript , PHP , C#
-- 📚 Estudo Desenvolvimento de Sistemas na Udemy
+- 🌱 Estudando JavaScript , PHP , C# , Bootstrap
+- 📚 Estuudando Desenvolvimento de Sistema na Udemy
 
 ##
-
+ 
 <div>
   <a href="https://github.com/IagoCustodio">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=IagoCustodio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,5 +24,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
  
-##
+##  
       
+ 
