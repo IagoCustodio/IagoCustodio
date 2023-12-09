@@ -1,3 +1,11 @@
+<p align="center">
+ 
+</p align="center">
+<img src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562" />
+
+<p align="center">
+
+
 ### Olá! Eu sou IagoCustódio👋
 
 Curioso pelo mundo da tecnologia, iniciei meus estudos em desenvolvimento Web em 2019, através da plataforma Udemy. Ingressando posteriormente, em 2021, no curso técnico em Desenvolvimento de Sistemas na Etec, onde obtive conhecimentos em:
