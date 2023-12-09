@@ -1,6 +1,21 @@
 ### Olá! Eu sou IagoCustódio👋
 
-##
+### Curioso pelo mundo da tecnologia, iniciei meus estudos em desenvolvimento Web em 2019, através da plataforma Udemy. Ingressando posteriormente, em 2021, no curso técnico em Desenvolvimento de Sistemas na Etec, onde obtive conhecimentos em:
+
+- Prototipação (Figma e Photoshop);
+- Noções de Metodologias Ageis;
+- HTML5;
+- CSS3;
+- Bootstrap;
+- JavaScript
+- Jquery;
+- Design Responsivo);
+- Lógica de Programação;
+- Programação Orientada a Objeto (C# e PHP);
+- Banco de dados (MYSQL e SQL);
+- Redes de Computadores.
+
+Desta forma, estou em busca da minha primeira oportunidade para ingressar no mercado de trabalho, compondo uma equipe onde seja possível evoluir, adquirindo novas soft e hard skills.
  
 ##
  
