@@ -6,22 +6,7 @@
 <img src="https://i.pinimg.com/564x/91/15/05/911505650ef12c1ec4e5e823b4e759ac.jpg" height="300"/>
 <p/>
 
-Curioso pelo mundo da tecnologia, iniciei meus estudos em desenvolvimento Web em 2019, através da plataforma Udemy. Ingressando posteriormente, em 2021, no curso técnico em Desenvolvimento de Sistemas na Etec, onde obtive conhecimentos em:
-
-- Prototipação (Figma e Photoshop);
-- Noções de Metodologias Ageis;
-- HTML5;
-- CSS3;
-- Bootstrap;
-- JavaScript
-- Jquery;
-- Design Responsivo);
-- Lógica de Programação;
-- Programação Orientada a Objeto (C# e PHP);
-- Banco de dados (MYSQL e SQL);
-- Redes de Computadores.
-
-Desta forma, estou em busca da minha primeira oportunidade para ingressar no mercado de trabalho, compondo uma equipe onde seja possível evoluir, adquirindo novas soft e hard skills.
+Sou um estudante entusiasmado e dedicado em busca de oportunidades para aplicar e aprimorar minhas habilidades como desenvolvedor front-end. Atualmente cursando o ensino superior Análise e Desenvolvimento de Sistemas no Senac, sou curioso pelo mundo da tecnologia. Sempre em busca de aprendizados, Estou ansioso para contribuir e crescer no âmbito profissional.
  
 ##
  
