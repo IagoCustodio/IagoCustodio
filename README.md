@@ -6,7 +6,7 @@
 <img src="https://i.pinimg.com/564x/91/15/05/911505650ef12c1ec4e5e823b4e759ac.jpg" height="300"/>
 <p/>
 
-Sou um estudante entusiasmado e dedicado em busca de oportunidades para aplicar e aprimorar minhas habilidades como desenvolvedor front-end. Atualmente cursando o ensino superior Análise e Desenvolvimento de Sistemas no Senac, sou curioso pelo mundo da tecnologia. Sempre em busca de aprendizados, Estou ansioso para contribuir e crescer no âmbito profissional.
+Sou um estudante entusiasmado e dedicado em busca de oportunidades para aplicar e aprimorar minhas habilidades como desenvolvedor. Atualmente cursando o ensino superior Análise e Desenvolvimento de Sistemas no Eniac, sou curioso pelo mundo da tecnologia. Sempre em busca de aprendizados. Estou ansioso para contribuire crescer no âmbito profissional.
  
 ##
  
