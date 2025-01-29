@@ -32,7 +32,7 @@ Sou um estudante entusiasmado e dedicado em busca de oportunidades para aplicar 
   <a href="https://www.linkedin.com/in/iago-cust%C3%B3dio-595511243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-#
+
 
 
 
